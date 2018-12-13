@@ -1,5 +1,5 @@
 <?php
-
+//Creando la conexión con la BD:
 $dbHost = 'localhost'; //Guardando la base de datos en la variable dbHost.
 $dbName = 'cursophp'; //Guardando la tabla en la variable $dbName.
 $dbUser = 'root'; //Guarando el usuario de la base de datos en la variable $dbUser.
