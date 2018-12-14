@@ -56,11 +56,19 @@ $blogPosts = $query->fetchAll(PDO::FETCH_ASSOC);
          
 				
         </div>
-         <div class="row">
-            <footer>
-              This is a footer
-            </footer>
-          </div>
+
+            //Agregando un footer
+            <div class="row">
+                <div class="col-md-12">
+
+                    <footer>
+                        This is a footer
+                        <a href="admin/">Admin Panel</a>
+                    </footer>
+
+                </div>
+
+            </div>
       </div>
 
 
