@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <?php
 //Iniciando la conexión llamando al archivo config.php
 include_once '../config.php';
